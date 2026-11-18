@@ -52,3 +52,12 @@ APEX is designed as a segmented SOC architecture consisting of four security zon
 Watch our project demonstration:
 
 [▶ Watch APEX Demo](https://drive.google.com/file/d/1orEl1imMay9gFzDWuTZBVXsU0Hojl9zJ/view?usp=sharing)
+
+## Collaborators
+
+- [Nourhan Mohamed](https://github.com/Nourhan613)
+- Safaa Mohamed
+- Farah Hazem
+- Mostafa Boghdady
+- Mohamed Rabie
+- Yahia Refat
